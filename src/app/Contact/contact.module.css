@@ -1,0 +1,75 @@
+.contact{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 200px;
+}
+.h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #001f3f;
+    margin-bottom: 5px;
+}
+.contactleft{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+.hr{
+    border: none;
+    width: 120px;
+    height: 5px;
+    background-color: #001f3f;
+    border-radius: 10px;
+}
+.input{
+    width: 400px;
+    height: 50px;
+    border: none;
+    outline: none;
+    padding-left: 25px;
+    font-weight: 500;
+    border-radius: 50px;
+    color: #4a4a4a;
+}
+.input2{
+    height: 140px;
+    padding-top: 15px;
+    border-radius: 20px;
+    width: 400px;
+    padding-left: 25px;
+}
+.button{
+    display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    font-size: 16px;
+    color:#fff;
+    gap: 10px;
+    border: none;
+    background-color: #001f3f;
+    border-radius: 50px;
+}
+.sociallinks{
+    display: flex;
+    gap: 15px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.icon{
+    width: 10px;
+    margin-left: 50px;
+}
+.p{
+    font-size: 23px;
+    margin-left: 20px;
+    margin-top: 250px;
+    font-weight: 600;
+}
+.p2{
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 25px;
+}

@@ -1,0 +1,13 @@
+.footer {
+    background-color: #001f3f; 
+    color: #d3d3d3; 
+    padding: 40px 20px;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .footer{
+        flex-direction: column;
+        align-items: center;
+    }
+}
